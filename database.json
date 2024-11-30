@@ -1,0 +1,249 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211921/project213/q1uobvpobvt2iqqxqdvw.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211921/project213/jipixdzn6qgxt43yfmc9.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211921/project213/olv5hchuint3uadopyf3.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732213696/project213/quvhnd2uf6tbok8hldxr.png",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732213696/project213/o9uooiphl2an2vfp1zij.png",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732213696/project213/a4hijkukwgoe2tei291v.png",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732213696/project213/bvdzshqosukshaqcv2zc.png",
+      "title": "Zara"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732213696/project213/otn5m7orpcssdsru2gnb.png",
+      "title": "Gucci"
+    }
+  ,
+    {
+      "id": 5,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732268754/project213/pqdglf3ofmua7p2qxkpq.png",
+      "title": "Prada"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211956/project213/woeehybjpclodaj7ane2.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211952/project213/pqn42ngprd7amjbacnk2.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211958/project213/wxgx6urp0ljxjej36zuz.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211952/project213/tbof7jmmlufiydnvwlbw.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211946/project213/spgygotobgavqyqlpkbn.png"
+      ],
+      "price": 18,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": "Formal White Shirt"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211955/project213/lc1h3xtlpdr4hgoypct8.png"
+      ],
+      "price": 25,
+      "rating": 4.7,
+      "showRecommended": true,
+      "title": "Casual Denim Set"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732211960/project213/vbcbgo3dtf27znhqkktl.png"
+      ],
+      "price": 32,
+      "rating": 4.7,
+      "showRecommended": true,
+      "title": "Elegant Black Blazer"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732266649/project213/cllqfigsajrzvgkzbclb.png"
+      ],
+      "price": 45,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Casual Denim Shirt"
+    },
+    null,
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732266819/project213/ngwsmmf8v7ttyivhsofj.png"
+      ],
+      "price": 30,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Brown Fitted T-Shirt"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732266682/project213/d79pws8mmfs8rl02aprs.png"
+      ],
+      "price": 25,
+      "rating": 4.7,
+      "showRecommended": true,
+      "title": "Gray Slim-Fit T-Shirt"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732266675/project213/b2wvl4yuduxf8gcgptbx.png"
+      ],
+      "price": 25,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Lace-Up Casual Tee"
+    },
+    {
+      "categoryId": "4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732266658/project213/qvr6rv6ix5dhel4mb1ki.png"
+      ],
+      "price": 85,
+      "rating": 4.5,
+      "showRecommended": false,
+      "title": "Navy Slim Fit Blazer"
+    },
+    {
+      "categoryId": "3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732264750/project213/zo9ckue0bnx0eumkg13t.png"
+      ],
+      "price": 75,
+      "rating": 4.9,
+      "showRecommended": false,
+      "title": "Classic Black Blazer"
+    }, {
+      "categoryId": "5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732268507/project213/uwcj5v93ekctf2wlcltp.png"
+      ],
+      "price": 120,
+      "rating": 4.6,
+      "showRecommended": false,
+      "title": "Classic Wool Blazer"
+    }, {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1732268494/project213/dxfzmj3rm5p9jjaiwoql.png"
+      ],
+      "price": 75,
+      "rating": 4.3,
+      "showRecommended": false,
+      "title": "Casual Denim Jacket"
+    }
+  ]
+}
